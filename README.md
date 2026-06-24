@@ -1,6 +1,6 @@
-# FortiCNAPP NZISM v3.7 Custom Compliance Framework
+# FortiCNAPP NZISM v3.7 Compliance Framework
 
-Custom FortiCNAPP compliance framework mapping the New Zealand Information Security Manual (NZISM) Restricted v3.7 to Azure CSPM policies.
+FortiCNAPP compliance framework mapping the New Zealand Information Security Manual (NZISM) Restricted v3.7 to Azure CSPM policies.
 
 Adopts Microsoft and GCSB NCSC's NZISM v3.7 control selection and binds it to FortiCNAPP's `lacework-global-*` Azure policy library.
 
