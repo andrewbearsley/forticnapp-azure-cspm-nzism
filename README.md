@@ -2,7 +2,7 @@
 
 Custom FortiCNAPP compliance framework mapping the New Zealand Information Security Manual (NZISM) Restricted v3.7 to Azure CSPM policies.
 
-Adopts Microsoft and GCSB NCSC's NZISM v3.7 control selection (185 CIDs across 19 chapters) and binds it to FortiCNAPP's `lacework-global-*` Azure policy library. 18 sections, 599 policy references, 185 unique policies.
+Adopts Microsoft and GCSB NCSC's NZISM v3.7 control selection and binds it to FortiCNAPP's `lacework-global-*` Azure policy library.
 
 ## Files
 
