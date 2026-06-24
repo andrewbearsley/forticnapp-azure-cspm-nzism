@@ -1,0 +1,1896 @@
+{
+  "name": "NZISM v3.7 CSPM Report",
+  "domains": [
+    "AZURE"
+  ],
+  "tags": [],
+  "sections": [
+    {
+      "name": "Chapter 2: Information Security Services within Government",
+      "policies": [
+        {
+          "policyId": "lacework-global-1040"
+        },
+        {
+          "policyId": "lacework-global-1041"
+        },
+        {
+          "policyId": "lacework-global-1047"
+        },
+        {
+          "policyId": "lacework-global-1048"
+        },
+        {
+          "policyId": "lacework-global-1050"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1395"
+        },
+        {
+          "policyId": "lacework-global-1880"
+        },
+        {
+          "policyId": "lacework-global-525"
+        },
+        {
+          "policyId": "lacework-global-526"
+        },
+        {
+          "policyId": "lacework-global-527"
+        },
+        {
+          "policyId": "lacework-global-553"
+        },
+        {
+          "policyId": "lacework-global-582"
+        },
+        {
+          "policyId": "lacework-global-605"
+        },
+        {
+          "policyId": "lacework-global-639"
+        },
+        {
+          "policyId": "lacework-global-642"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 3: Information security governance - roles and responsibilities",
+      "policies": [
+        {
+          "policyId": "lacework-global-1023"
+        },
+        {
+          "policyId": "lacework-global-1025"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1104"
+        },
+        {
+          "policyId": "lacework-global-1403"
+        },
+        {
+          "policyId": "lacework-global-1959"
+        },
+        {
+          "policyId": "lacework-global-1960"
+        },
+        {
+          "policyId": "lacework-global-1980"
+        },
+        {
+          "policyId": "lacework-global-405"
+        },
+        {
+          "policyId": "lacework-global-415"
+        },
+        {
+          "policyId": "lacework-global-416"
+        },
+        {
+          "policyId": "lacework-global-417"
+        },
+        {
+          "policyId": "lacework-global-522"
+        },
+        {
+          "policyId": "lacework-global-523"
+        },
+        {
+          "policyId": "lacework-global-525"
+        },
+        {
+          "policyId": "lacework-global-526"
+        },
+        {
+          "policyId": "lacework-global-527"
+        },
+        {
+          "policyId": "lacework-global-529"
+        },
+        {
+          "policyId": "lacework-global-530"
+        },
+        {
+          "policyId": "lacework-global-578"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-600"
+        },
+        {
+          "policyId": "lacework-global-605"
+        },
+        {
+          "policyId": "lacework-global-611"
+        },
+        {
+          "policyId": "lacework-global-614"
+        },
+        {
+          "policyId": "lacework-global-637"
+        },
+        {
+          "policyId": "lacework-global-641"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 5: Information security documentation",
+      "policies": [
+        {
+          "policyId": "lacework-global-1030"
+        },
+        {
+          "policyId": "lacework-global-1059"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1062"
+        },
+        {
+          "policyId": "lacework-global-1063"
+        },
+        {
+          "policyId": "lacework-global-1066"
+        },
+        {
+          "policyId": "lacework-global-1068"
+        },
+        {
+          "policyId": "lacework-global-1069"
+        },
+        {
+          "policyId": "lacework-global-1073"
+        },
+        {
+          "policyId": "lacework-global-1096"
+        },
+        {
+          "policyId": "lacework-global-1104"
+        },
+        {
+          "policyId": "lacework-global-2025"
+        },
+        {
+          "policyId": "lacework-global-525"
+        },
+        {
+          "policyId": "lacework-global-526"
+        },
+        {
+          "policyId": "lacework-global-527"
+        },
+        {
+          "policyId": "lacework-global-579"
+        },
+        {
+          "policyId": "lacework-global-629"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 6: Information security monitoring",
+      "policies": [
+        {
+          "policyId": "lacework-global-1018"
+        },
+        {
+          "policyId": "lacework-global-1023"
+        },
+        {
+          "policyId": "lacework-global-1025"
+        },
+        {
+          "policyId": "lacework-global-1030"
+        },
+        {
+          "policyId": "lacework-global-1059"
+        },
+        {
+          "policyId": "lacework-global-1062"
+        },
+        {
+          "policyId": "lacework-global-1063"
+        },
+        {
+          "policyId": "lacework-global-1066"
+        },
+        {
+          "policyId": "lacework-global-1096"
+        },
+        {
+          "policyId": "lacework-global-1112"
+        },
+        {
+          "policyId": "lacework-global-1430"
+        },
+        {
+          "policyId": "lacework-global-1581"
+        },
+        {
+          "policyId": "lacework-global-1582"
+        },
+        {
+          "policyId": "lacework-global-1881"
+        },
+        {
+          "policyId": "lacework-global-1899"
+        },
+        {
+          "policyId": "lacework-global-1960"
+        },
+        {
+          "policyId": "lacework-global-405"
+        },
+        {
+          "policyId": "lacework-global-415"
+        },
+        {
+          "policyId": "lacework-global-416"
+        },
+        {
+          "policyId": "lacework-global-417"
+        },
+        {
+          "policyId": "lacework-global-522"
+        },
+        {
+          "policyId": "lacework-global-529"
+        },
+        {
+          "policyId": "lacework-global-553"
+        },
+        {
+          "policyId": "lacework-global-554"
+        },
+        {
+          "policyId": "lacework-global-578"
+        },
+        {
+          "policyId": "lacework-global-579"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-599"
+        },
+        {
+          "policyId": "lacework-global-601"
+        },
+        {
+          "policyId": "lacework-global-602"
+        },
+        {
+          "policyId": "lacework-global-603"
+        },
+        {
+          "policyId": "lacework-global-604"
+        },
+        {
+          "policyId": "lacework-global-605"
+        },
+        {
+          "policyId": "lacework-global-606"
+        },
+        {
+          "policyId": "lacework-global-607"
+        },
+        {
+          "policyId": "lacework-global-610"
+        },
+        {
+          "policyId": "lacework-global-611"
+        },
+        {
+          "policyId": "lacework-global-612"
+        },
+        {
+          "policyId": "lacework-global-614"
+        },
+        {
+          "policyId": "lacework-global-622"
+        },
+        {
+          "policyId": "lacework-global-623"
+        },
+        {
+          "policyId": "lacework-global-624"
+        },
+        {
+          "policyId": "lacework-global-625"
+        },
+        {
+          "policyId": "lacework-global-629"
+        },
+        {
+          "policyId": "lacework-global-637"
+        },
+        {
+          "policyId": "lacework-global-641"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 7: Information Security Incidents",
+      "policies": [
+        {
+          "policyId": "lacework-global-1023"
+        },
+        {
+          "policyId": "lacework-global-1030"
+        },
+        {
+          "policyId": "lacework-global-1059"
+        },
+        {
+          "policyId": "lacework-global-1066"
+        },
+        {
+          "policyId": "lacework-global-1068"
+        },
+        {
+          "policyId": "lacework-global-1069"
+        },
+        {
+          "policyId": "lacework-global-1070"
+        },
+        {
+          "policyId": "lacework-global-1071"
+        },
+        {
+          "policyId": "lacework-global-1073"
+        },
+        {
+          "policyId": "lacework-global-1112"
+        },
+        {
+          "policyId": "lacework-global-1573"
+        },
+        {
+          "policyId": "lacework-global-525"
+        },
+        {
+          "policyId": "lacework-global-526"
+        },
+        {
+          "policyId": "lacework-global-527"
+        },
+        {
+          "policyId": "lacework-global-579"
+        },
+        {
+          "policyId": "lacework-global-629"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 9: Personnel Security",
+      "policies": [
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1104"
+        },
+        {
+          "policyId": "lacework-global-1403"
+        },
+        {
+          "policyId": "lacework-global-1581"
+        },
+        {
+          "policyId": "lacework-global-1582"
+        },
+        {
+          "policyId": "lacework-global-1880"
+        },
+        {
+          "policyId": "lacework-global-1959"
+        },
+        {
+          "policyId": "lacework-global-1960"
+        },
+        {
+          "policyId": "lacework-global-1980"
+        },
+        {
+          "policyId": "lacework-global-522"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-600"
+        },
+        {
+          "policyId": "lacework-global-611"
+        },
+        {
+          "policyId": "lacework-global-614"
+        },
+        {
+          "policyId": "lacework-global-637"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 10: Infrastructure",
+      "policies": [
+        {
+          "policyId": "lacework-global-1050"
+        },
+        {
+          "policyId": "lacework-global-1509"
+        },
+        {
+          "policyId": "lacework-global-1510"
+        },
+        {
+          "policyId": "lacework-global-1511"
+        },
+        {
+          "policyId": "lacework-global-1523"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 11: Communications Systems and Devices",
+      "policies": [
+        {
+          "policyId": "lacework-global-1509"
+        },
+        {
+          "policyId": "lacework-global-1510"
+        },
+        {
+          "policyId": "lacework-global-1511"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 12: Product Security",
+      "policies": [
+        {
+          "policyId": "lacework-global-1025"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1395"
+        },
+        {
+          "policyId": "lacework-global-1468"
+        },
+        {
+          "policyId": "lacework-global-1797"
+        },
+        {
+          "policyId": "lacework-global-1881"
+        },
+        {
+          "policyId": "lacework-global-1899"
+        },
+        {
+          "policyId": "lacework-global-1959"
+        },
+        {
+          "policyId": "lacework-global-1960"
+        },
+        {
+          "policyId": "lacework-global-522"
+        },
+        {
+          "policyId": "lacework-global-524"
+        },
+        {
+          "policyId": "lacework-global-542"
+        },
+        {
+          "policyId": "lacework-global-560"
+        },
+        {
+          "policyId": "lacework-global-568"
+        },
+        {
+          "policyId": "lacework-global-569"
+        },
+        {
+          "policyId": "lacework-global-570"
+        },
+        {
+          "policyId": "lacework-global-571"
+        },
+        {
+          "policyId": "lacework-global-574"
+        },
+        {
+          "policyId": "lacework-global-579"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-601"
+        },
+        {
+          "policyId": "lacework-global-602"
+        },
+        {
+          "policyId": "lacework-global-603"
+        },
+        {
+          "policyId": "lacework-global-605"
+        },
+        {
+          "policyId": "lacework-global-606"
+        },
+        {
+          "policyId": "lacework-global-611"
+        },
+        {
+          "policyId": "lacework-global-612"
+        },
+        {
+          "policyId": "lacework-global-614"
+        },
+        {
+          "policyId": "lacework-global-622"
+        },
+        {
+          "policyId": "lacework-global-623"
+        },
+        {
+          "policyId": "lacework-global-624"
+        },
+        {
+          "policyId": "lacework-global-625"
+        },
+        {
+          "policyId": "lacework-global-637"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 13: Media and IT Equipment Management",
+      "policies": [
+        {
+          "policyId": "lacework-global-579"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 14: Software security",
+      "policies": [
+        {
+          "policyId": "lacework-global-1016"
+        },
+        {
+          "policyId": "lacework-global-1023"
+        },
+        {
+          "policyId": "lacework-global-1025"
+        },
+        {
+          "policyId": "lacework-global-1030"
+        },
+        {
+          "policyId": "lacework-global-1038"
+        },
+        {
+          "policyId": "lacework-global-1040"
+        },
+        {
+          "policyId": "lacework-global-1048"
+        },
+        {
+          "policyId": "lacework-global-1049"
+        },
+        {
+          "policyId": "lacework-global-1056"
+        },
+        {
+          "policyId": "lacework-global-1059"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1072"
+        },
+        {
+          "policyId": "lacework-global-1099"
+        },
+        {
+          "policyId": "lacework-global-1132"
+        },
+        {
+          "policyId": "lacework-global-1277"
+        },
+        {
+          "policyId": "lacework-global-1409"
+        },
+        {
+          "policyId": "lacework-global-1467"
+        },
+        {
+          "policyId": "lacework-global-1510"
+        },
+        {
+          "policyId": "lacework-global-1523"
+        },
+        {
+          "policyId": "lacework-global-1530"
+        },
+        {
+          "policyId": "lacework-global-1533"
+        },
+        {
+          "policyId": "lacework-global-1543"
+        },
+        {
+          "policyId": "lacework-global-1544"
+        },
+        {
+          "policyId": "lacework-global-1565"
+        },
+        {
+          "policyId": "lacework-global-1575"
+        },
+        {
+          "policyId": "lacework-global-1585"
+        },
+        {
+          "policyId": "lacework-global-1607"
+        },
+        {
+          "policyId": "lacework-global-1755"
+        },
+        {
+          "policyId": "lacework-global-1776"
+        },
+        {
+          "policyId": "lacework-global-1935"
+        },
+        {
+          "policyId": "lacework-global-1953"
+        },
+        {
+          "policyId": "lacework-global-2022"
+        },
+        {
+          "policyId": "lacework-global-2026"
+        },
+        {
+          "policyId": "lacework-global-405"
+        },
+        {
+          "policyId": "lacework-global-415"
+        },
+        {
+          "policyId": "lacework-global-416"
+        },
+        {
+          "policyId": "lacework-global-522"
+        },
+        {
+          "policyId": "lacework-global-526"
+        },
+        {
+          "policyId": "lacework-global-527"
+        },
+        {
+          "policyId": "lacework-global-532"
+        },
+        {
+          "policyId": "lacework-global-533"
+        },
+        {
+          "policyId": "lacework-global-534"
+        },
+        {
+          "policyId": "lacework-global-537"
+        },
+        {
+          "policyId": "lacework-global-538"
+        },
+        {
+          "policyId": "lacework-global-539"
+        },
+        {
+          "policyId": "lacework-global-541"
+        },
+        {
+          "policyId": "lacework-global-549"
+        },
+        {
+          "policyId": "lacework-global-553"
+        },
+        {
+          "policyId": "lacework-global-554"
+        },
+        {
+          "policyId": "lacework-global-555"
+        },
+        {
+          "policyId": "lacework-global-557"
+        },
+        {
+          "policyId": "lacework-global-568"
+        },
+        {
+          "policyId": "lacework-global-569"
+        },
+        {
+          "policyId": "lacework-global-570"
+        },
+        {
+          "policyId": "lacework-global-571"
+        },
+        {
+          "policyId": "lacework-global-573"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-599"
+        },
+        {
+          "policyId": "lacework-global-601"
+        },
+        {
+          "policyId": "lacework-global-602"
+        },
+        {
+          "policyId": "lacework-global-603"
+        },
+        {
+          "policyId": "lacework-global-605"
+        },
+        {
+          "policyId": "lacework-global-606"
+        },
+        {
+          "policyId": "lacework-global-607"
+        },
+        {
+          "policyId": "lacework-global-610"
+        },
+        {
+          "policyId": "lacework-global-611"
+        },
+        {
+          "policyId": "lacework-global-612"
+        },
+        {
+          "policyId": "lacework-global-614"
+        },
+        {
+          "policyId": "lacework-global-615"
+        },
+        {
+          "policyId": "lacework-global-617"
+        },
+        {
+          "policyId": "lacework-global-622"
+        },
+        {
+          "policyId": "lacework-global-623"
+        },
+        {
+          "policyId": "lacework-global-624"
+        },
+        {
+          "policyId": "lacework-global-625"
+        },
+        {
+          "policyId": "lacework-global-628"
+        },
+        {
+          "policyId": "lacework-global-629"
+        },
+        {
+          "policyId": "lacework-global-631"
+        },
+        {
+          "policyId": "lacework-global-637"
+        },
+        {
+          "policyId": "lacework-global-640"
+        },
+        {
+          "policyId": "lacework-global-642"
+        },
+        {
+          "policyId": "lacework-global-947"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 16: Access Control and Passwords",
+      "policies": [
+        {
+          "policyId": "lacework-global-1011"
+        },
+        {
+          "policyId": "lacework-global-1016"
+        },
+        {
+          "policyId": "lacework-global-1022"
+        },
+        {
+          "policyId": "lacework-global-1023"
+        },
+        {
+          "policyId": "lacework-global-1030"
+        },
+        {
+          "policyId": "lacework-global-1032"
+        },
+        {
+          "policyId": "lacework-global-1040"
+        },
+        {
+          "policyId": "lacework-global-1045"
+        },
+        {
+          "policyId": "lacework-global-1046"
+        },
+        {
+          "policyId": "lacework-global-1048"
+        },
+        {
+          "policyId": "lacework-global-1049"
+        },
+        {
+          "policyId": "lacework-global-1050"
+        },
+        {
+          "policyId": "lacework-global-1059"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1072"
+        },
+        {
+          "policyId": "lacework-global-1099"
+        },
+        {
+          "policyId": "lacework-global-1132"
+        },
+        {
+          "policyId": "lacework-global-1139"
+        },
+        {
+          "policyId": "lacework-global-1277"
+        },
+        {
+          "policyId": "lacework-global-1385"
+        },
+        {
+          "policyId": "lacework-global-1394"
+        },
+        {
+          "policyId": "lacework-global-1395"
+        },
+        {
+          "policyId": "lacework-global-1403"
+        },
+        {
+          "policyId": "lacework-global-1409"
+        },
+        {
+          "policyId": "lacework-global-1433"
+        },
+        {
+          "policyId": "lacework-global-1452"
+        },
+        {
+          "policyId": "lacework-global-1453"
+        },
+        {
+          "policyId": "lacework-global-1480"
+        },
+        {
+          "policyId": "lacework-global-1510"
+        },
+        {
+          "policyId": "lacework-global-1523"
+        },
+        {
+          "policyId": "lacework-global-1530"
+        },
+        {
+          "policyId": "lacework-global-1531"
+        },
+        {
+          "policyId": "lacework-global-1532"
+        },
+        {
+          "policyId": "lacework-global-1533"
+        },
+        {
+          "policyId": "lacework-global-1543"
+        },
+        {
+          "policyId": "lacework-global-1544"
+        },
+        {
+          "policyId": "lacework-global-1571"
+        },
+        {
+          "policyId": "lacework-global-1575"
+        },
+        {
+          "policyId": "lacework-global-1585"
+        },
+        {
+          "policyId": "lacework-global-1607"
+        },
+        {
+          "policyId": "lacework-global-1642"
+        },
+        {
+          "policyId": "lacework-global-1653"
+        },
+        {
+          "policyId": "lacework-global-1755"
+        },
+        {
+          "policyId": "lacework-global-1776"
+        },
+        {
+          "policyId": "lacework-global-1953"
+        },
+        {
+          "policyId": "lacework-global-1960"
+        },
+        {
+          "policyId": "lacework-global-2022"
+        },
+        {
+          "policyId": "lacework-global-2026"
+        },
+        {
+          "policyId": "lacework-global-398"
+        },
+        {
+          "policyId": "lacework-global-405"
+        },
+        {
+          "policyId": "lacework-global-412"
+        },
+        {
+          "policyId": "lacework-global-415"
+        },
+        {
+          "policyId": "lacework-global-416"
+        },
+        {
+          "policyId": "lacework-global-417"
+        },
+        {
+          "policyId": "lacework-global-502"
+        },
+        {
+          "policyId": "lacework-global-522"
+        },
+        {
+          "policyId": "lacework-global-523"
+        },
+        {
+          "policyId": "lacework-global-525"
+        },
+        {
+          "policyId": "lacework-global-526"
+        },
+        {
+          "policyId": "lacework-global-527"
+        },
+        {
+          "policyId": "lacework-global-529"
+        },
+        {
+          "policyId": "lacework-global-532"
+        },
+        {
+          "policyId": "lacework-global-533"
+        },
+        {
+          "policyId": "lacework-global-534"
+        },
+        {
+          "policyId": "lacework-global-537"
+        },
+        {
+          "policyId": "lacework-global-539"
+        },
+        {
+          "policyId": "lacework-global-541"
+        },
+        {
+          "policyId": "lacework-global-549"
+        },
+        {
+          "policyId": "lacework-global-553"
+        },
+        {
+          "policyId": "lacework-global-554"
+        },
+        {
+          "policyId": "lacework-global-555"
+        },
+        {
+          "policyId": "lacework-global-557"
+        },
+        {
+          "policyId": "lacework-global-568"
+        },
+        {
+          "policyId": "lacework-global-569"
+        },
+        {
+          "policyId": "lacework-global-578"
+        },
+        {
+          "policyId": "lacework-global-582"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-599"
+        },
+        {
+          "policyId": "lacework-global-601"
+        },
+        {
+          "policyId": "lacework-global-604"
+        },
+        {
+          "policyId": "lacework-global-605"
+        },
+        {
+          "policyId": "lacework-global-606"
+        },
+        {
+          "policyId": "lacework-global-607"
+        },
+        {
+          "policyId": "lacework-global-609"
+        },
+        {
+          "policyId": "lacework-global-610"
+        },
+        {
+          "policyId": "lacework-global-617"
+        },
+        {
+          "policyId": "lacework-global-628"
+        },
+        {
+          "policyId": "lacework-global-629"
+        },
+        {
+          "policyId": "lacework-global-631"
+        },
+        {
+          "policyId": "lacework-global-632"
+        },
+        {
+          "policyId": "lacework-global-633"
+        },
+        {
+          "policyId": "lacework-global-639"
+        },
+        {
+          "policyId": "lacework-global-641"
+        },
+        {
+          "policyId": "lacework-global-642"
+        },
+        {
+          "policyId": "lacework-global-947"
+        },
+        {
+          "policyId": "lacework-global-994"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 17: Cryptography",
+      "policies": [
+        {
+          "policyId": "lacework-global-1030"
+        },
+        {
+          "policyId": "lacework-global-1031"
+        },
+        {
+          "policyId": "lacework-global-1038"
+        },
+        {
+          "policyId": "lacework-global-1046"
+        },
+        {
+          "policyId": "lacework-global-1049"
+        },
+        {
+          "policyId": "lacework-global-1056"
+        },
+        {
+          "policyId": "lacework-global-1059"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1086"
+        },
+        {
+          "policyId": "lacework-global-1099"
+        },
+        {
+          "policyId": "lacework-global-1453"
+        },
+        {
+          "policyId": "lacework-global-1467"
+        },
+        {
+          "policyId": "lacework-global-1489"
+        },
+        {
+          "policyId": "lacework-global-1510"
+        },
+        {
+          "policyId": "lacework-global-1523"
+        },
+        {
+          "policyId": "lacework-global-1530"
+        },
+        {
+          "policyId": "lacework-global-1533"
+        },
+        {
+          "policyId": "lacework-global-1537"
+        },
+        {
+          "policyId": "lacework-global-1544"
+        },
+        {
+          "policyId": "lacework-global-1565"
+        },
+        {
+          "policyId": "lacework-global-1566"
+        },
+        {
+          "policyId": "lacework-global-1575"
+        },
+        {
+          "policyId": "lacework-global-1586"
+        },
+        {
+          "policyId": "lacework-global-1607"
+        },
+        {
+          "policyId": "lacework-global-1638"
+        },
+        {
+          "policyId": "lacework-global-1642"
+        },
+        {
+          "policyId": "lacework-global-1776"
+        },
+        {
+          "policyId": "lacework-global-1801"
+        },
+        {
+          "policyId": "lacework-global-1807"
+        },
+        {
+          "policyId": "lacework-global-1935"
+        },
+        {
+          "policyId": "lacework-global-1953"
+        },
+        {
+          "policyId": "lacework-global-2026"
+        },
+        {
+          "policyId": "lacework-global-415"
+        },
+        {
+          "policyId": "lacework-global-416"
+        },
+        {
+          "policyId": "lacework-global-528"
+        },
+        {
+          "policyId": "lacework-global-529"
+        },
+        {
+          "policyId": "lacework-global-530"
+        },
+        {
+          "policyId": "lacework-global-532"
+        },
+        {
+          "policyId": "lacework-global-533"
+        },
+        {
+          "policyId": "lacework-global-534"
+        },
+        {
+          "policyId": "lacework-global-538"
+        },
+        {
+          "policyId": "lacework-global-539"
+        },
+        {
+          "policyId": "lacework-global-540"
+        },
+        {
+          "policyId": "lacework-global-541"
+        },
+        {
+          "policyId": "lacework-global-549"
+        },
+        {
+          "policyId": "lacework-global-550"
+        },
+        {
+          "policyId": "lacework-global-552"
+        },
+        {
+          "policyId": "lacework-global-554"
+        },
+        {
+          "policyId": "lacework-global-555"
+        },
+        {
+          "policyId": "lacework-global-599"
+        },
+        {
+          "policyId": "lacework-global-601"
+        },
+        {
+          "policyId": "lacework-global-606"
+        },
+        {
+          "policyId": "lacework-global-607"
+        },
+        {
+          "policyId": "lacework-global-615"
+        },
+        {
+          "policyId": "lacework-global-621"
+        },
+        {
+          "policyId": "lacework-global-622"
+        },
+        {
+          "policyId": "lacework-global-628"
+        },
+        {
+          "policyId": "lacework-global-629"
+        },
+        {
+          "policyId": "lacework-global-635"
+        },
+        {
+          "policyId": "lacework-global-636"
+        },
+        {
+          "policyId": "lacework-global-640"
+        },
+        {
+          "policyId": "lacework-global-641"
+        },
+        {
+          "policyId": "lacework-global-643"
+        },
+        {
+          "policyId": "lacework-global-947"
+        },
+        {
+          "policyId": "lacework-global-994"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 18: Network security",
+      "policies": [
+        {
+          "policyId": "lacework-global-1023"
+        },
+        {
+          "policyId": "lacework-global-1025"
+        },
+        {
+          "policyId": "lacework-global-405"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-599"
+        },
+        {
+          "policyId": "lacework-global-601"
+        },
+        {
+          "policyId": "lacework-global-602"
+        },
+        {
+          "policyId": "lacework-global-603"
+        },
+        {
+          "policyId": "lacework-global-604"
+        },
+        {
+          "policyId": "lacework-global-605"
+        },
+        {
+          "policyId": "lacework-global-606"
+        },
+        {
+          "policyId": "lacework-global-607"
+        },
+        {
+          "policyId": "lacework-global-609"
+        },
+        {
+          "policyId": "lacework-global-610"
+        },
+        {
+          "policyId": "lacework-global-611"
+        },
+        {
+          "policyId": "lacework-global-612"
+        },
+        {
+          "policyId": "lacework-global-622"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 19: Gateway security",
+      "policies": [
+        {
+          "policyId": "lacework-global-1016"
+        },
+        {
+          "policyId": "lacework-global-1023"
+        },
+        {
+          "policyId": "lacework-global-1025"
+        },
+        {
+          "policyId": "lacework-global-1030"
+        },
+        {
+          "policyId": "lacework-global-1032"
+        },
+        {
+          "policyId": "lacework-global-1038"
+        },
+        {
+          "policyId": "lacework-global-1049"
+        },
+        {
+          "policyId": "lacework-global-1056"
+        },
+        {
+          "policyId": "lacework-global-1059"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1066"
+        },
+        {
+          "policyId": "lacework-global-1072"
+        },
+        {
+          "policyId": "lacework-global-1073"
+        },
+        {
+          "policyId": "lacework-global-1096"
+        },
+        {
+          "policyId": "lacework-global-1099"
+        },
+        {
+          "policyId": "lacework-global-1132"
+        },
+        {
+          "policyId": "lacework-global-1139"
+        },
+        {
+          "policyId": "lacework-global-1403"
+        },
+        {
+          "policyId": "lacework-global-1409"
+        },
+        {
+          "policyId": "lacework-global-1433"
+        },
+        {
+          "policyId": "lacework-global-1467"
+        },
+        {
+          "policyId": "lacework-global-1510"
+        },
+        {
+          "policyId": "lacework-global-1530"
+        },
+        {
+          "policyId": "lacework-global-1533"
+        },
+        {
+          "policyId": "lacework-global-1543"
+        },
+        {
+          "policyId": "lacework-global-1565"
+        },
+        {
+          "policyId": "lacework-global-1582"
+        },
+        {
+          "policyId": "lacework-global-1606"
+        },
+        {
+          "policyId": "lacework-global-1607"
+        },
+        {
+          "policyId": "lacework-global-1642"
+        },
+        {
+          "policyId": "lacework-global-1755"
+        },
+        {
+          "policyId": "lacework-global-1933"
+        },
+        {
+          "policyId": "lacework-global-1935"
+        },
+        {
+          "policyId": "lacework-global-1953"
+        },
+        {
+          "policyId": "lacework-global-2026"
+        },
+        {
+          "policyId": "lacework-global-415"
+        },
+        {
+          "policyId": "lacework-global-416"
+        },
+        {
+          "policyId": "lacework-global-417"
+        },
+        {
+          "policyId": "lacework-global-522"
+        },
+        {
+          "policyId": "lacework-global-523"
+        },
+        {
+          "policyId": "lacework-global-525"
+        },
+        {
+          "policyId": "lacework-global-526"
+        },
+        {
+          "policyId": "lacework-global-527"
+        },
+        {
+          "policyId": "lacework-global-529"
+        },
+        {
+          "policyId": "lacework-global-533"
+        },
+        {
+          "policyId": "lacework-global-539"
+        },
+        {
+          "policyId": "lacework-global-558"
+        },
+        {
+          "policyId": "lacework-global-559"
+        },
+        {
+          "policyId": "lacework-global-560"
+        },
+        {
+          "policyId": "lacework-global-561"
+        },
+        {
+          "policyId": "lacework-global-562"
+        },
+        {
+          "policyId": "lacework-global-563"
+        },
+        {
+          "policyId": "lacework-global-564"
+        },
+        {
+          "policyId": "lacework-global-565"
+        },
+        {
+          "policyId": "lacework-global-566"
+        },
+        {
+          "policyId": "lacework-global-567"
+        },
+        {
+          "policyId": "lacework-global-568"
+        },
+        {
+          "policyId": "lacework-global-569"
+        },
+        {
+          "policyId": "lacework-global-570"
+        },
+        {
+          "policyId": "lacework-global-571"
+        },
+        {
+          "policyId": "lacework-global-572"
+        },
+        {
+          "policyId": "lacework-global-573"
+        },
+        {
+          "policyId": "lacework-global-578"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-599"
+        },
+        {
+          "policyId": "lacework-global-601"
+        },
+        {
+          "policyId": "lacework-global-602"
+        },
+        {
+          "policyId": "lacework-global-604"
+        },
+        {
+          "policyId": "lacework-global-605"
+        },
+        {
+          "policyId": "lacework-global-606"
+        },
+        {
+          "policyId": "lacework-global-607"
+        },
+        {
+          "policyId": "lacework-global-610"
+        },
+        {
+          "policyId": "lacework-global-615"
+        },
+        {
+          "policyId": "lacework-global-617"
+        },
+        {
+          "policyId": "lacework-global-628"
+        },
+        {
+          "policyId": "lacework-global-629"
+        },
+        {
+          "policyId": "lacework-global-631"
+        },
+        {
+          "policyId": "lacework-global-640"
+        },
+        {
+          "policyId": "lacework-global-641"
+        },
+        {
+          "policyId": "lacework-global-947"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 20: Data management",
+      "policies": [
+        {
+          "policyId": "lacework-global-1030"
+        },
+        {
+          "policyId": "lacework-global-1040"
+        },
+        {
+          "policyId": "lacework-global-1041"
+        },
+        {
+          "policyId": "lacework-global-1048"
+        },
+        {
+          "policyId": "lacework-global-1049"
+        },
+        {
+          "policyId": "lacework-global-1059"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1509"
+        },
+        {
+          "policyId": "lacework-global-1510"
+        },
+        {
+          "policyId": "lacework-global-1511"
+        },
+        {
+          "policyId": "lacework-global-1520"
+        },
+        {
+          "policyId": "lacework-global-1523"
+        },
+        {
+          "policyId": "lacework-global-1530"
+        },
+        {
+          "policyId": "lacework-global-1537"
+        },
+        {
+          "policyId": "lacework-global-1543"
+        },
+        {
+          "policyId": "lacework-global-1544"
+        },
+        {
+          "policyId": "lacework-global-1571"
+        },
+        {
+          "policyId": "lacework-global-1575"
+        },
+        {
+          "policyId": "lacework-global-1607"
+        },
+        {
+          "policyId": "lacework-global-1755"
+        },
+        {
+          "policyId": "lacework-global-1776"
+        },
+        {
+          "policyId": "lacework-global-1953"
+        },
+        {
+          "policyId": "lacework-global-2022"
+        },
+        {
+          "policyId": "lacework-global-2026"
+        },
+        {
+          "policyId": "lacework-global-532"
+        },
+        {
+          "policyId": "lacework-global-533"
+        },
+        {
+          "policyId": "lacework-global-534"
+        },
+        {
+          "policyId": "lacework-global-549"
+        },
+        {
+          "policyId": "lacework-global-568"
+        },
+        {
+          "policyId": "lacework-global-569"
+        },
+        {
+          "policyId": "lacework-global-573"
+        },
+        {
+          "policyId": "lacework-global-582"
+        },
+        {
+          "policyId": "lacework-global-606"
+        },
+        {
+          "policyId": "lacework-global-629"
+        },
+        {
+          "policyId": "lacework-global-631"
+        },
+        {
+          "policyId": "lacework-global-947"
+        },
+        {
+          "policyId": "lacework-global-994"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 22: Enterprise systems security",
+      "policies": [
+        {
+          "policyId": "lacework-global-1030"
+        },
+        {
+          "policyId": "lacework-global-1061"
+        },
+        {
+          "policyId": "lacework-global-1062"
+        },
+        {
+          "policyId": "lacework-global-1068"
+        },
+        {
+          "policyId": "lacework-global-1069"
+        },
+        {
+          "policyId": "lacework-global-1070"
+        },
+        {
+          "policyId": "lacework-global-1073"
+        },
+        {
+          "policyId": "lacework-global-1096"
+        },
+        {
+          "policyId": "lacework-global-1112"
+        },
+        {
+          "policyId": "lacework-global-1395"
+        },
+        {
+          "policyId": "lacework-global-1453"
+        },
+        {
+          "policyId": "lacework-global-1533"
+        },
+        {
+          "policyId": "lacework-global-1573"
+        },
+        {
+          "policyId": "lacework-global-1787"
+        },
+        {
+          "policyId": "lacework-global-1881"
+        },
+        {
+          "policyId": "lacework-global-1899"
+        },
+        {
+          "policyId": "lacework-global-397"
+        },
+        {
+          "policyId": "lacework-global-541"
+        },
+        {
+          "policyId": "lacework-global-542"
+        },
+        {
+          "policyId": "lacework-global-549"
+        },
+        {
+          "policyId": "lacework-global-553"
+        },
+        {
+          "policyId": "lacework-global-554"
+        },
+        {
+          "policyId": "lacework-global-555"
+        },
+        {
+          "policyId": "lacework-global-568"
+        },
+        {
+          "policyId": "lacework-global-569"
+        },
+        {
+          "policyId": "lacework-global-579"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-601"
+        },
+        {
+          "policyId": "lacework-global-605"
+        },
+        {
+          "policyId": "lacework-global-614"
+        },
+        {
+          "policyId": "lacework-global-623"
+        },
+        {
+          "policyId": "lacework-global-624"
+        },
+        {
+          "policyId": "lacework-global-625"
+        },
+        {
+          "policyId": "lacework-global-629"
+        },
+        {
+          "policyId": "lacework-global-633"
+        },
+        {
+          "policyId": "lacework-global-637"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 23: Public Cloud Security",
+      "policies": [
+        {
+          "policyId": "lacework-global-1453"
+        },
+        {
+          "policyId": "lacework-global-541"
+        },
+        {
+          "policyId": "lacework-global-553"
+        },
+        {
+          "policyId": "lacework-global-554"
+        },
+        {
+          "policyId": "lacework-global-555"
+        },
+        {
+          "policyId": "lacework-global-598"
+        },
+        {
+          "policyId": "lacework-global-614"
+        },
+        {
+          "policyId": "lacework-global-637"
+        }
+      ]
+    }
+  ]
+}
